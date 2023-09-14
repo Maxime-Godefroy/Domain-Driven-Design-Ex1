@@ -9,12 +9,12 @@ class Catalogue {
 
 	protected function createVideo()
 	{
-		
+		 
 	}
 
     public function readVideo()
 	{
-		
+
 	}
 
     protected function updateVideo()
